@@ -1,6 +1,6 @@
-# Ballerina Integration Test Framework - Emulator Server
+# Emulator Server
 
-The emulator server is responsible for starting all the backend servers required to run the test framework
+The emulator server is responsible for starting all the backend servers
 
 ## Installation
 
